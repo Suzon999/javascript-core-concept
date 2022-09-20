@@ -32,7 +32,22 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+.hero-alom {
+  color: pink;
+  background: purple;
+  padding: 10px
+}
+
+.person {
+  color: white;
+  background-color: blue;
+  padding: 30px;
+  border-radius: 10px;
+  margin-bottom: 20px;
 }
